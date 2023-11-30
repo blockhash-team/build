@@ -1,1 +1,0 @@
-import{$ as e,a1 as o}from"./index-Sl5g17R7.js";import{P as a}from"./Page-Bzhqvvou.js";function i(){return e.jsx(a,{title:"Home",children:e.jsxs("div",{className:"container max-w-7xl mx-auto px-8",children:[e.jsx(o,{color:"primary",size:"md",children:"HomePage"}),e.jsx("div",{children:"youto"})]})})}export{i as default};

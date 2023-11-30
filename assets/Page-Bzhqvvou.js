@@ -1,1 +1,0 @@
-import{$ as s,a2 as r}from"./index-Sl5g17R7.js";const a=({title:e,children:t})=>s.jsxs("div",{className:"mt-12 w-full z-10",children:[s.jsx(r,{children:s.jsxs("title",{children:[e," - BLOCKHASH"]})}),t]}),i=a;export{i as P};
