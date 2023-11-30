@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="53" height="53" viewBox="0 0 53 53">
+  <defs>
+    <clipPath id="clip-icon_menu">
+      <rect width="53" height="53"/>
+    </clipPath>
+  </defs>
+  <g id="icon_menu" clip-path="url(#clip-icon_menu)">
+    <path id="_-Icon-Color" data-name="🔹-Icon-Color" d="M5.55,36.605H46.357a2.55,2.55,0,0,0,0-5.1H5.55a2.55,2.55,0,1,0,0,5.1Zm0-12.752H46.357a2.55,2.55,0,0,0,0-5.1H5.55a2.55,2.55,0,1,0,0,5.1ZM3,8.55A2.558,2.558,0,0,0,5.55,11.1H46.357a2.55,2.55,0,0,0,0-5.1H5.55A2.558,2.558,0,0,0,3,8.55Z" transform="translate(0.546 5.197)" fill="#1d1d1d" fill-rule="evenodd"/>
+  </g>
+</svg>

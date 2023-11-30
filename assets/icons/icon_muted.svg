@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="53" height="53" viewBox="0 0 53 53">
+  <defs>
+    <clipPath id="clip-icon_muted">
+      <rect width="53" height="53"/>
+    </clipPath>
+  </defs>
+  <g id="icon_muted" clip-path="url(#clip-icon_muted)">
+    <g id="Icons" transform="translate(-8 -9)">
+      <g id="Rounded" transform="translate(-885 -3438)">
+        <g id="Navigation" transform="translate(100 3378)">
+          <g id="_-Round-_-Navigation-_-menu" data-name="-Round-/-Navigation-/-menu" transform="translate(782 54)">
+            <g id="Group_2195" data-name="Group 2195" transform="translate(5 5)">
+              <path id="Path" d="M0,0H24V24H0Z" fill="none" fill-rule="evenodd"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="_55000066016352315034510" data-name="55000066016352315034510" transform="translate(2.499 2.5)">
+      <path id="Path_8066" data-name="Path 8066" d="M16.563,13.024,24.9,8.344c.017-.009.033-.019.05-.03a1.9,1.9,0,0,1,1.983-.07A2.055,2.055,0,0,1,28,10.079V22.615a1,1,0,0,0,2,0V10.079A4.081,4.081,0,0,0,27.893,6.49a3.894,3.894,0,0,0-4,.123L15.584,11.28a1,1,0,0,0,.979,1.744Z" stroke="#000" stroke-width="3"/>
+      <path id="Path_8067" data-name="Path 8067" d="M42.055,11.428a1,1,0,1,0-1.641,1.144A20.012,20.012,0,0,1,41.76,33.2a1,1,0,0,0,.427,1.348.988.988,0,0,0,.46.113,1,1,0,0,0,.888-.539,22.014,22.014,0,0,0-1.48-22.7Z" stroke="#000" stroke-width="3"/>
+      <path id="Path_8068" data-name="Path 8068" d="M36,24a10.949,10.949,0,0,1-.768,4.045,1,1,0,1,0,1.859.736A13.009,13.009,0,0,0,35.667,16.57a1,1,0,1,0-1.639,1.146A10.92,10.92,0,0,1,36,24Z" stroke="#000" stroke-width="3"/>
+      <path id="Path_8069" data-name="Path 8069" d="M6.629,8.651a1,1,0,1,0-1.258,1.555L10.058,14H6.5A4.5,4.5,0,0,0,2,18.5v11A4.5,4.5,0,0,0,6.5,34h4.238L23.9,41.387a3.9,3.9,0,0,0,4,.123A4.081,4.081,0,0,0,30,37.921V30.143l11.371,9.206a1,1,0,0,0,1.258-1.555ZM4,29.5v-11A2.5,2.5,0,0,1,6.5,16H10V32H6.5A2.5,2.5,0,0,1,4,29.5Zm24,8.421a2.055,2.055,0,0,1-1.068,1.835,1.9,1.9,0,0,1-1.983-.07c-.017-.011-.033-.021-.05-.03L12,32.415V15.585l.009-.005L28,28.524Z" stroke="#000" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
